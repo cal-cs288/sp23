@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: home 
 title: Home 
+nav_order: 0
+permalink: /:path/
 description: >-
     Course policies and information.
 ---
