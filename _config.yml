@@ -19,7 +19,7 @@ description: A modern, highly customizable, responsive Jekyll template for cours
 author: Dan Klein, Eric Wallace, Kevin Lin
 baseurl: '/sp23' # the subpath of your site, e.g. /blog
 url: 'https://cal-cs288.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
