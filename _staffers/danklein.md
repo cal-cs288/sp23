@@ -1,6 +1,6 @@
 ---
 name: Dan Klein 
 role: Instructor
-email: klein@cs.berkeley.edu 
+email: klein@berkeley.edu  
 website: http://people.eecs.berkeley.edu/~klein/ 
 ---
