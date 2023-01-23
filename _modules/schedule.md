@@ -3,7 +3,7 @@ title: Schedule
 ---
 
 Jan 23
-: Intro (HW1 Released)
+: Intro ([1up](slides/cs288-sp23-introduction.pdf)) ([6up](slides/cs288-sp23-introduction-6up.pdf))
 
 Jan 25
 : Language Modeling
@@ -26,8 +26,8 @@ Feb 13
 Feb 15
 : Speech
 
-Feb 20 (HW2 Due, HW3 Released) 
-: (Academic Holiday)
+Feb 20 
+: No Class, Academic Holiday (HW2 Due, HW3 Released) 
 
 Feb 22
 : Speech
