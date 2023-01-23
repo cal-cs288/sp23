@@ -4,7 +4,6 @@ title: Schedule
 
 Jan 23
 : Intro ([1up](slides/cs288-sp23-introduction.pdf)) ([6up](slides/cs288-sp23-introduction-6up.pdf))
-(HW1 Released)
 
 Jan 25
 : Language Modeling
