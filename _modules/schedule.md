@@ -6,7 +6,8 @@ Jan 23
 : Intro ([1up](slides/cs288-sp23-introduction.pdf)) ([6up](slides/cs288-sp23-introduction-6up.pdf))
 
 Jan 25
-: Language Modeling
+: Language Modeling ([1up](slides/cs288-sp23-language-modeling.pdf)) ([6up](slides/cs288-sp23-language-modeling-6up.pdf))
+
 
 Jan 30 
 : Language Modeling
