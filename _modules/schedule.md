@@ -13,7 +13,8 @@ Jan 30
 : Language Modeling
 
 Feb 1 
-: Machine Translation
+: Machine Translation ([1up](slides/cs288-sp23-machine-translation.pdf)) ([6up](slides/cs288-sp23-machine-translation-6up.pdf))
+
 
 Feb 6
 : Machine Translation (HW1 Due, HW2 Released)
