@@ -17,10 +17,10 @@ Feb 1
 
 
 Feb 6
-: Machine Translation (HW1 Due, HW2 Released)
+: Machine Translation (HW1 Due)
 
 Feb 8
-: Parsing
+: Parsing (HW2 Released)
 
 Feb 13
 : Parsing
@@ -29,10 +29,10 @@ Feb 15
 : Speech
 
 Feb 20 
-: No Class, Academic Holiday (HW2 Due, HW3 Released) 
+: No Class, Academic Holiday  
 
 Feb 22
-: Speech
+: Speech (HW2 Due, HW3 Released)
 
 Feb 27
 : Semantics
