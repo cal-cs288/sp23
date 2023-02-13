@@ -23,7 +23,8 @@ Feb 8
 : Parsing (HW2 Released)
 
 Feb 13
-: Parsing
+: Parsing ([1up](slides/cs288-sp23-parsing.pdf)) ([6up](slides/cs288-sp23-parsing-6up.pdf))
+
 
 Feb 15
 : Speech
