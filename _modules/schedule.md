@@ -27,28 +27,28 @@ Feb 13
 
 
 Feb 15
-: Speech
+: Parsing 
 
 Feb 20 
 : No Class, Academic Holiday  
 
 Feb 22
-: Speech (HW2 Due, HW3 Released)
+: Parsing (HW2 Due, HW3 Released)
 
 Feb 27
-: Semantics
+: Speech 
 
 March 1
-: Pragmatics
+: Speech 
 
 March 6
-: Slack Day (HW3 Due)
-
+: Semantics (HW3 Due)
+ 
 March 8
-: Transformer LMs (HW4 Released)
+: Pragmatics (HW4 Released)
 
 March 13
-: Existing Transformer LMs
+: Transformer LMs
 
 March 15
 : Language Models at Scale
