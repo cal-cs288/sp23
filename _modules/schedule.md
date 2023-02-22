@@ -43,10 +43,10 @@ March 1
 : Speech 
 
 March 6
-: Semantics (HW3 Due)
+: Semantics 
  
 March 8
-: Pragmatics (HW4 Released)
+: Pragmatics (HW3 Due, HW4 Released)
 
 March 13
 : Transformer LMs
