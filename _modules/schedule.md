@@ -33,7 +33,8 @@ Feb 20
 : No Class, Academic Holiday  
 
 Feb 22
-: Parsing (HW2 Due, HW3 Released)
+: Neural Parsing ([1up](slides/cs288-sp23-neural-parsing.pdf)) ([6up](slides/cs288-sp23-neural-parsing-6up.pdf))
+(HW2 Due, HW3 Released)
 
 Feb 27
 : Speech 
