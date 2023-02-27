@@ -37,10 +37,10 @@ Feb 22
 (HW2 Due, HW3 Released)
 
 Feb 27
-: Speech 
+: Speech  ([1up](slides/cs288-sp23-speech-parsing.pdf)) ([6up](slides/cs288-sp23-speech-6up.pdf))
 
 March 1
-: Speech 
+: Speech  
 
 March 6
 : Semantics 
