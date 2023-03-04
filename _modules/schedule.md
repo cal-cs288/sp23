@@ -46,10 +46,11 @@ March 6
 : Semantics 
  
 March 8
-: Pragmatics (HW3 Due, HW4 Released)
+: Pragmatics (HW3 Due) 
 
 March 13
-: Transformer LMs
+: Transformer LMs (HW4 Released)
+
 
 March 15
 : Language Models at Scale
@@ -58,12 +59,12 @@ March 20
 : Data
 
 March 22
-: Systems (HW4 Due)
+: Systems 
 
 Spring Break
 
-April 3
-: Misuse, Risks, Harms (HW5 Released)
+April 3 
+: Misuse, Risks, Harms (HW4 Due, HW5 Released)
 
 April 5
 : Adaptation
