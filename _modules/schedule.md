@@ -43,7 +43,8 @@ March 1
 : Speech  
 
 March 6
-: Semantics 
+: Semantics ([1up](slides/cs288-sp23-semantics.pdf)) ([6up](slides/cs288-sp23-semantics-6up.pdf))
+
  
 March 8
 : Pragmatics (HW3 Due) 
