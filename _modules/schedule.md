@@ -54,7 +54,9 @@ March 13
 
 
 March 15
-: Language Models at Scale
+: Language Models at Scale ([1up](slides/cs288-sp23-existing-llms.pdf)) ([6up](slides/cs288-sp23-existing-llms-6up.pdf))
+
+
 
 March 20
 : Data
