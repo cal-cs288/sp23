@@ -59,7 +59,7 @@ March 15
 
 
 March 20
-: Data
+: Data ([1up](slides/cs288-sp23-llm-data.pdf)) ([6up](slides/cs288-sp23-llm-data.pdf))
 
 March 22
 : Systems 
