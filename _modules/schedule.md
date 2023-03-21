@@ -50,7 +50,7 @@ March 8
 : Pragmatics (HW3 Due) 
 
 March 13
-: Transformer LMs (HW4 Released)  ([1up](slides/cs288-sp23-llm-overview.pdf)) ([6up](slides/cs288-sp23-llm-overview-6up.pdf))
+: **Part 2 Begins!** Transformer LMs (HW4 Released)  ([1up](slides/cs288-sp23-llm-overview.pdf)) ([6up](slides/cs288-sp23-llm-overview-6up.pdf))
 
 
 March 15
