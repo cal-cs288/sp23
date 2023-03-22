@@ -59,10 +59,11 @@ March 15
 
 
 March 20
-: Data ([1up](slides/cs288-sp23-llm-data.pdf)) ([6up](slides/cs288-sp23-llm-data.pdf))
+: Data ([1up](slides/cs288-sp23-llm-data.pdf)) ([6up](slides/cs288-sp23-llm-data-6up.pdf))
 
 March 22
-: Systems 
+: Systems ([1up](slides/cs288-sp23-scaling-llms.pdf)) ([6up](slides/cs288-sp23-scaling-llms-6up.pdf))
+
 
 Spring Break
 
