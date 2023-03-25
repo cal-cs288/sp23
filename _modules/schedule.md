@@ -59,34 +59,34 @@ March 15
 
 
 March 20
-: Data ([1up](slides/cs288-sp23-llm-data.pdf)) ([6up](slides/cs288-sp23-llm-data-6up.pdf))
+: Pre-training Data for LMs ([1up](slides/cs288-sp23-llm-data.pdf)) ([6up](slides/cs288-sp23-llm-data-6up.pdf))
 
 March 22
-: Systems ([1up](slides/cs288-sp23-scaling-llms.pdf)) ([6up](slides/cs288-sp23-scaling-llms-6up.pdf))
+: LM Systems ([1up](slides/cs288-sp23-scaling-llms.pdf)) ([6up](slides/cs288-sp23-scaling-llms-6up.pdf))
 
 
 Spring Break
 
 April 3 
-: Misuse, Risks, Harms (HW4 Due, HW5 Released)
+: Misuse, Risks, Harms of LMs (HW4 Due, HW5 Released)
 
 April 5
-: Adaptation
+: LM Prompting & Adaptation
 
 April 10
-: RLHF / Instruction-tuning
+: LM RLHF & Instruction-tuning
 
 April 12
-: Retrieval / Knowledge-Intensive Tasks
+: Retrieval & Knowledge-Intensive Tasks
 
 April 17
-: Vision and Language
+: Vision and Language Models
 
 April 19
-: Multilingual Modeling (HW5 Due)
+: Multilingual LMs (HW5 Due)
 
 April 24
-: Efficiency and Novel Architectures
+: Efficiency and Novel LM Architectures
 
 April 26
 : Future of NLP Panel Discussion
