@@ -68,13 +68,13 @@ March 22
 Spring Break
 
 April 3 
-: Misuse, Risks, Harms (HW4 Due, HW5 Released)
+: Misuse, Risks, Harms ([1up](slides/cs288-sp23-harms.pdf)) ([6up](slides/cs288-sp23-harms-6up.pdf))
 
 April 5
-: Adaptation
+: Adaptation (HW4 Due) 
 
 April 10
-: RLHF / Instruction-tuning
+: RLHF / Instruction-tuning (HW5 Released)
 
 April 12
 : Retrieval / Knowledge-Intensive Tasks
@@ -83,11 +83,11 @@ April 17
 : Vision and Language
 
 April 19
-: Multilingual Modeling (HW5 Due)
+: Multilingual Modeling 
 
 April 24
 : Efficiency and Novel Architectures
 
 April 26
-: Future of NLP Panel Discussion
+: Future of NLP Panel Discussion (HW5 Due)
 
