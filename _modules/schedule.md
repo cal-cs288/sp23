@@ -71,7 +71,8 @@ April 3
 : Misuse, Risks, Harms ([1up](slides/cs288-sp23-harms.pdf)) ([6up](slides/cs288-sp23-harms-6up.pdf))
 
 April 5
-: Adaptation (HW4 Due) 
+: Adaptation (HW4 Due)  ([1up](slides/cs288-sp23-adaptation.pdf)) ([6up](slides/cs288-sp23-adaptation-6up.pdf))
+
 
 April 10
 : RLHF / Instruction-tuning (HW5 Released)
