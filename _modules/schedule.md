@@ -78,13 +78,16 @@ April 10
 : RLHF / Instruction-tuning (HW5 Released)  ([1up](slides/cs288-sp23-rlhf.pdf)) ([6up](slides/cs288-sp23-rlhf-6up.pdf))
 
 April 12
-: Vision and Language
+: Vision and Language ([1up](slides/cs288-sp23-vision.pdf)) ([6up](slides/cs288-sp23-vision-6up.pdf))
+
+
 
 April 17
 : Retrieval / Knowledge-Intensive Tasks
 
 April 19
-: Multilingual Modeling 
+: Multilingual Modeling ([1up](slides/cs288-sp23-multilingual.pdf)) ([6up](slides/cs288-sp23-multilingual-6up.pdf))
+
 
 April 24
 : Efficiency and Novel Architectures
