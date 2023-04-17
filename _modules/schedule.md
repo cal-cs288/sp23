@@ -83,7 +83,8 @@ April 12
 
 
 April 17
-: Retrieval / Knowledge-Intensive Tasks
+: Retrieval / Knowledge-Intensive Tasks ([1up](slides/cs288-sp23-retrieval.pdf)) ([6up](slides/cs288-sp23-retrieval-6up.pdf))
+
 
 April 19
 : Multilingual Modeling ([1up](slides/cs288-sp23-multilingual.pdf)) ([6up](slides/cs288-sp23-multilingual-6up.pdf))
