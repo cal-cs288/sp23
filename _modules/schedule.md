@@ -91,7 +91,8 @@ April 19
 
 
 April 24
-: Efficiency and Novel Architectures
+: Efficiency and Novel Architectures ([1up](slides/cs288-sp23-efficiency.pdf)) ([6up](slides/cs288-sp23-efficiency-6up.pdf))
+
 
 April 26
 : Future of NLP Panel Discussion (HW5 Due)
